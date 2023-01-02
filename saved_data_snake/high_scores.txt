@@ -1,0 +1,7 @@
+2800, fred
+3200, bread
+200, ragul
+400, ragul
+100, josh
+100, josh
+100, fred

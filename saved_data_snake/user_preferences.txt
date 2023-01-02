@@ -1,0 +1,6 @@
+SOUND: OFF~False
+MUSIC: OFF~False
+GRID: OFF~False
+BORDER THEME: SOLID STONE~stone_border_
+BACKGROUND: GOOGLE GRASS~google_grass_background.jpg
+SNAKE SKIN: GOOGLE SNAKE~google_snake_
